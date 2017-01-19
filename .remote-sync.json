@@ -1,0 +1,17 @@
+{
+  "uploadOnSave": false,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "iulian.uk",
+  "target": "/var/www/html/",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**",
+    "scss",
+    "prepros-6.config"
+  ],
+  "keyfile": "/Users/Iulian/.ssh/id_rsa",
+  "watch": [],
+  "transport": "scp",
+  "username": "iulian"
+}
